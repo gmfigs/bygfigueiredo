@@ -3,7 +3,7 @@
 Source: https://gfigueiredo.framer.website
 Mode: full-site
 Pages: 17
-Assets: 578
+Assets: 590
 
 ## Hosting
 
